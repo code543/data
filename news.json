@@ -1,0 +1,8 @@
+{
+  news:
+      [
+        {"id": 1, "title" : "Migrating From LiveData to StateFlow", "content": "I’ve worked a lot with LiveData and I think it is a great solution to save the UI state and observe it from the view layer without…"},
+        {"id": 1, "title" : "Simplifying APIs with coroutines and Flow", "content": "simplify APIs using coroutines and Flow as well as how to build your own adapter using suspendCancellableCoroutine and"},
+        {"id": 1, "title" : "Boost your Android Development Process with these awesome Kotlin extensions", "content": "Kotlin provides the ability to extend a class with new functionality without having to inherit from the class or use design patterns "}
+      ]
+}
